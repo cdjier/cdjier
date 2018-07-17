@@ -1,0 +1,2 @@
+# cdjier
+MMD newcomer
